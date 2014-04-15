@@ -22,7 +22,7 @@
 
     var target = document.getElementById('target');
     var end = Math.floor(Math.random() * 100);
-    target.innerText = answerCode(end);
+    target.innerText = fibonacci(end);
   </script>
 </body>
 </html>
