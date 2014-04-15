@@ -16,7 +16,7 @@
 <body>
   <div id="target"></div>
   <script>
-    var answerCode = function() {
+    var answerCode = function(end) {
       // Write your code.
     };
 
