@@ -16,9 +16,9 @@
 <body>
   <div id="target"></div>
   <script>
-    var answerCode = function(end) {
+    var fibonacci = (function(end) {
       // Write your code.
-    };
+    })();
 
     var target = document.getElementById('target');
     var end = Math.floor(Math.random() * 100);
